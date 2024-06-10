@@ -1,1 +1,1 @@
-export const base_Url='http://localhost:5000'
+export const base_Url='https://examserver-yzr5.onrender.com'
